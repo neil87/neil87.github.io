@@ -13,7 +13,7 @@ email_username:  zhaoweic18@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-91027962-1
+google_tracking_id: UA-109236728-1
 
 # Build settings
 markdown: kramdown
